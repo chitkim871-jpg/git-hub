@@ -1,0 +1,7 @@
+#Logs
+Logs
+*.Log
+
+#Dependency directories
+#Mac finder
+.DS_Store
