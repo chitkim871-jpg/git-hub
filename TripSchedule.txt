@@ -1,4 +1,10 @@
 Park Hyatt Seoul
 [Hotel Information]
+606, Teheran-ro, Gangnam-gu, Seoul, Republic of korea
+Check-in time: 3:00p.m.
+Check-out 12:00 p.m.
+
 
 [Covenience facilities]
+- wifi
+- one bed
